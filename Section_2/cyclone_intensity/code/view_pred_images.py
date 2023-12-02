@@ -1,17 +1,3 @@
-# view_images.py
-# Written By Connor Cozad
-# Modified by GMfatcat
-#
-# Purpose of this file:
-# This file is not a necessary part of preparing data or running the neural network. It gives the user a glimpse of
-# what the images of hurricanes look like. These are the images that the neural network is trained on in model.py
-#
-# Outline of this file:
-# - Reads numpy files containing hurricane images and the wind speed they are associated with
-# - Shows N random satellite images and their wind speeds, N = show_img
-# - When running the script, closing the current matplotlib window will cause the next one to open
-
-# Define
 show_img = 5
 save_fig = False
 
