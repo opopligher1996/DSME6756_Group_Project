@@ -3,3 +3,7 @@ dataset.zip
 .ipynb_checkpoints/
 *.nc
 *.npy
+*.csv
+*.h5
+*.png
+*.zip
